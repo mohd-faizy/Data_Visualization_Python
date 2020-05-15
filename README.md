@@ -1,12 +1,13 @@
-# My Data Visualization in Python
+# Data Visualization in Python
 
-<center><img src = 'https://www.datapine.com/blog/wp-content/uploads/2018/10/data-visualization-techniques-datapine.png'></center>
+<img src = 'https://www.datapine.com/blog/wp-content/uploads/2018/10/data-visualization-techniques-datapine.png' width = 550, align = "center">
 
 
 __Data visualization__ is the discipline of trying to understand data by placing it in a visual context so that patterns, trends and correlations that might not otherwise be detected can be exposed.
 
-Python offers multiple great graphing libraries that come packed with lots of different features. No matter if you want to create interactive, live or highly customized plots python has an excellent library for you.
-To get a little overview here are a few popular plotting libraries:
+Python offers multiple great graphing libraries that come packed with lots of different features.
+
+__popular plotting libraries:__
 
 - __Matplotlib:__ low level, provides lots of freedom
 - __Pandas Visualization:__ easy to use interface, built on Matplotlib
