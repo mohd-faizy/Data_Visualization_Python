@@ -1,6 +1,6 @@
 # Data Visualization in Python
 
-<img src = 'https://www.datapine.com/blog/wp-content/uploads/2018/10/data-visualization-techniques-datapine.png' width = 550, align = "center">
+<img src = 'https://i4d9k9u7.rocketcdn.me/wp-content/uploads/2019/05/data-visualization-1200x565.png'  align = "center">
 
 
 __Data visualization__ is the discipline of trying to understand data by placing it in a visual context so that patterns, trends and correlations that might not otherwise be detected can be exposed.
